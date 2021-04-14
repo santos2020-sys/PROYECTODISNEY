@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\bin\Debug\PROYECTODISNEY.exe.config
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\bin\Debug\PROYECTODISNEY.exe
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\bin\Debug\PROYECTODISNEY.pdb
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.INICIO.resources
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.Properties.Resources.resources
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.exe
+C:\Users\Admin\source\repos\DISNEYPROYECT\PROYECTODISNEY\obj\Debug\PROYECTODISNEY.pdb

@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace PROYECTODISNEY
 {
-    public partial class Form1 : Form
+    public partial class INICIO : Form
     {
-        public Form1()
+        
+        public INICIO()
         {
+            
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
         }
     }
 }
